@@ -1,0 +1,16 @@
+rook,0,0
+pawn,0,1
+knight,2,2
+pawn,1,3
+bishop,2,0
+pawn,2,1
+queen,3,0
+pawn,3,1
+king,4,0
+pawn,4,4
+bishop,5,0
+pawn,5,1
+knight,6,4
+pawn,6,1
+rook,7,0
+pawn,7,1
